@@ -43,11 +43,7 @@ namespace FreezerGUI.Windows
         }
 
         private const string Licence = @"
-# To jest tylko placeholder
-# ---------------------------------
-
-
-# Piecyk Program License
+# Freezer Program License
 
 **Copyright (c)**
 
@@ -69,7 +65,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Written by Jan Sawicki, October 2022
+Written by Jan Sawicki, May 2023
 
 ## **Resources Copyright Notice (c)**
 
