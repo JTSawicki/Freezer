@@ -1,4 +1,4 @@
-Automatyzacja układu pomiarowego.
+## Automatyzacja układu pomiarowego.
 
 Automatyzacja składa się z oprogramowania na komputer oraz czujnika przepływu wody chłodzącej kompresor. Czujnik odpowiada również za wysyłanie powiadomień e-mail o braku przepływu(wykorzystywany komputer z różnych przyczyn nie jest podpięty do internetu).
 
